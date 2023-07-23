@@ -22,3 +22,9 @@ DC motors are contolled by separate NPN transistor motor drivers using PWM signa
 ### Schematic Files
 https://github.com/alisya-k/RC-Car/blob/main/MAIN.SchDoc
 <br />
+
+### Code Files
+MCU (STM32F103C6) code programmed with STM32CubeIDE in C, for remote control of motors with IR remote. 
+<br />
+https://github.com/alisya-k/RC-Car/blob/main/main.c
+<br />
