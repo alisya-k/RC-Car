@@ -3,7 +3,7 @@ Remote controlled toy car (two motors), PCB and circuit design.
 <br/>
 Controlled by IR remote and ultrasonic sensor using a blue pill (STM32F103C6) as an MCU. 
 <br />
-Motors are contolled by separate NPN transistor motor drivers using PWM signals for speed.
+DC motors are contolled by separate NPN transistor motor drivers using PWM signals for speed.
 ### 3D Model
 <p align="center">
 <img src="https://github.com/alisya-k/RC-Car/assets/56568411/9b5deca5-41fa-4f3f-b3b9-623a3b44f4a1" width="250px" />
@@ -20,5 +20,5 @@ Motors are contolled by separate NPN transistor motor drivers using PWM signals 
 <br />
 
 ### Schematic Files
-
-
+https://github.com/alisya-k/RC-Car/blob/main/MAIN.SchDoc
+<br />
